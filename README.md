@@ -1,4 +1,4 @@
-### Hi there 👋
+### 코딩 못해요 ㅜㅜㅜ 👋
 
 <!--
 **jang010505/jang010505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
