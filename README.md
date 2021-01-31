@@ -1,5 +1,5 @@
-### Computer Science 2020!👋
-
+### Computer Science 2020!!
+코딩의 코자도 모르는 코딩 초보...
 <!--
 **jang010505/jang010505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
