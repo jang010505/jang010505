@@ -1,6 +1,6 @@
 <div align=center>
  <h1>Computer Science 2020!!</h1>
- 코딩의 코자도 모르는 코딩 초보입니다! 하하하<br><br><br>
+ 코딩의 코자도 모르는 코딩 초보입니다! 하하하<br><br>
  
  ### 🤔 Site<br>
  <a href="mailto:hgyellow0505@gmail.com">
