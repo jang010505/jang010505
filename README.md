@@ -27,27 +27,37 @@
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/MATLAB-D4F4FA?style=for-the-badge"/>
-
+ <img src="https://img.shields.io/badge/MATLAB-D4F4FA?style=for-the-badge"/><br><br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jang010505&layout=compact&theme=swift&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) 
+ <br>
  
  #### 😑 WEB<br>
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff"/>
-
-
+ <br>
+ 
  #### 🙄 Git?<br>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jang010505&show_icons=true&theme=swift&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) 
-
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jang010505&show_icons=true&theme=swift&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) 
+ <br>
+ 
  #### 🤗 PS?<br>
  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang010505)](https://solved.ac/jang010505)
  <br><br>
-
- ### 🫠 PRIZE 
+ 
+ ### 🫠 Prize<br>
  **INU 코드페스티벌 2020: 은상**<br>
  **매트랩 Cody 챌린지 2021: 우수상**<br>
  **INU 코드페스티벌 2021: 대상**<br>
- **INU 컴퓨터공학부 졸업작품발표회 2023: 장려상**<br>
- 
+ **INU 컴퓨터공학부 졸업작품발표회 2023: 장려상**
+<br><br>
+ ### 😴 Project
+ **<a href="https://github.com/GifticonRangers" target="_blank">꼬리가 길면 잡힌다.(2022/8~2023/5)</a>**<br>
+ **<a href="https://github.com/BongBong-E-Bong" target="_blank">봉봉이봉(2023/7~)</a>**
+ <br><br>
+ ### 😇 Organization<br>
+ **인천대학교 컴퓨터공학부 2020/3~**<br>
+ **인천대학교 컴퓨터공학부 Isoft-LAB 2021/3~**
 </div>
 
