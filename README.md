@@ -57,7 +57,7 @@
  **<a href="https://github.com/BongBong-E-Bong" target="_blank">봉봉이봉(2023/7~)</a>**
  <br><br>
  ### 😇 Organization<br>
- **인천대학교 컴퓨터공학부 2020/3~**<br>
- **인천대학교 컴퓨터공학부 Isoft-LAB 2021/3~**
+ **인천대학교 컴퓨터공학부 2020/3~2024/2**<br>
+ **인천대학교 컴퓨터공학부 Isoft-LAB 2021/3~2024/2**
 </div>
 
