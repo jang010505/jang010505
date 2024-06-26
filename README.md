@@ -18,6 +18,9 @@
  <a href="https://www.acmicpc.net/user/jang010505" target="_blank">
   <img src="https://img.shields.io/badge/baekjoon-ffffff?style=for-the-badge"/>
  </a>
+ <a href="https://velog.io/@jang010505" target="_blank">
+  <img src="https://img.shields.io/badge/velog-EA4335?style=for-the-badge"/>
+ </a>
  <br><br>
 
  ### 🤮 Tech Stack<br>
