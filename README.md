@@ -57,7 +57,7 @@
 <br><br>
  ### 😴 Project
  **<a href="https://github.com/GifticonRangers" target="_blank">꼬리가 길면 잡힌다.(2022/8~2023/5)</a>**<br>
- **<a href="https://github.com/BongBong-E-Bong" target="_blank">봉봉이봉(2023/7~)</a>**
+ **<a href="https://github.com/BongBong-E-Bong" target="_blank">봉봉이봉(2023/7~2023/9)</a>**
  <br><br>
  ### 😇 Organization<br>
  **인천대학교 컴퓨터공학부 2020/3~2024/2**<br>
