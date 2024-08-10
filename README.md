@@ -53,11 +53,15 @@
  **INU 코드페스티벌 2020: 은상**<br>
  **매트랩 Cody 챌린지 2021: 우수상**<br>
  **INU 코드페스티벌 2021: 대상**<br>
- **INU 컴퓨터공학부 졸업작품발표회 2023: 장려상**
+ **INU 컴퓨터공학부 졸업작품발표회 2023: 장려상**<br>
+ **전국 대학생 프로그래밍 대회 2021: 본선**<br>
+ **국제 대학생 프로그래밍 대회 2021: 서울 본선**<br>
+ **국제 대학생 프로그래밍 대회 2023: 서울 본선**
 <br><br>
  ### 😴 Project
  **<a href="https://github.com/GifticonRangers" target="_blank">꼬리가 길면 잡힌다.(2022/8~2023/5)</a>**<br>
- **<a href="https://github.com/BongBong-E-Bong" target="_blank">봉봉이봉(2023/7~2023/9)</a>**
+ **<a href="https://github.com/BongBong-E-Bong" target="_blank">봉봉이봉(2023/7~2023/9)</a>**<br>
+ **<a href="https://github.com/Jr-YongFill" target="_blank">용기가 필요한 아이들(2024/7~2024/8)</a>**
  <br><br>
  ### 😇 Organization<br>
  **인천대학교 컴퓨터공학부 2020/3~2024/2**<br>
